@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... digital transformation
 - 🌱 I’m currently learning ... deep learning
 - 👯 I’m looking to collaborate on ... data & analytics projects :)
-- 🤔 I’m looking for help with ... what ever involve business-data 
+- 🤔 I’m looking for help with ... what ever involves business-data 
 - 💬 Ask me about ... vicariobrand
 - 📫 How to reach me: ... manuel.vicario.perez@gmail.com
 - 😄 Pronouns: ... He/him
